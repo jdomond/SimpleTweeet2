@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://github.com/jdomond/SimpleTweeet2blob/master/walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://github.com/jdomond/SimpleTweeet2/blob/master/walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
